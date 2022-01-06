@@ -1,0 +1,10 @@
+{
+	"code": "1",
+	"msg": "성공",
+	"detailedMsg": null,
+	"data": {
+		"team": "BYEONG CHEOL 개발자님의 집",
+		"greetings": "안녕하세요 Dashboard-kits에 오셨군요 환영합니다."
+	},
+	"success": true
+}

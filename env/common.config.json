@@ -1,0 +1,15 @@
+{
+  "isLocal": true,
+  "setInterval": 60,
+  "API_URL": {
+    "development": "http://localhost:3000/mocks",
+    "production": "http://192.168.10.65:9010/service",
+    "local": "http://localhost:3000/api"
+  },
+  "EMS_SITE": "http://121.78.87.196",
+  "TOPOLOGY": {
+    "id": "dashboard",
+    "pw": "dashboard",
+    "resourceid": "000000"
+  }
+}
